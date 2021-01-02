@@ -4,14 +4,12 @@
 HTML & CSS
 
 //Skills used:
-//HTML skills:
 1. adding a class to an element 
 2. modifying text content
-//CSS skills:
-1. adding a border
-2. adding padding
-3. italicizing text
-4. altering list item bullets
+3. adding a border
+4. adding padding
+5. italicizing text
+6. altering list item bullets
 
 
 //Required Changes ⚙️ (HTML code)

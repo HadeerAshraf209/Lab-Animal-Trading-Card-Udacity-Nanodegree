@@ -1,0 +1,53 @@
+/*In the CSS, a class selector is a name preceded by a full stop (“.”) 
+and an ID selector is a name preceded by a hash character (“#”).*/
+body{
+    font-family: Comic Sans MS;
+    font-size: 10px;
+    padding: 20px;
+}
+/**for the interesting facts card, add a CSS class named animal-info*/
+/*add a border around the animal's information*/
+.animal-info{
+  text-align: justify;
+  font-family: Comic Sans MS;
+  border: solid;
+  border-color: rgb(160, 160, 160);
+  border-width: 0.5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  box-shadow: 20px 20px 80px rgb(180, 180, 180);
+  background-color: rgb(246, 246, 246);
+  font-style: italic;
+}
+span{
+    font-weight: bold; /*bold the labels for the animal's list items*/
+}
+li{
+    list-style: none;/*remove dots from the animal's list items*/
+}
+/*add a border around the animal's name, image, and information*/
+#container{
+    border: solid;
+    border-color: grey;
+    border-width: 2px;
+    padding: 10px;
+    box-shadow: 20px 20px 50px rgb(180, 180, 180);
+
+}
+img{
+    margin: auto;
+    display: block;
+    margin-bottom:21px;
+}
+h1{
+    text-align: center;
+    font-size: 20px;
+}
+h2{
+    font-size:15px;
+}
+#facts{
+    padding: 0%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}

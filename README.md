@@ -4,10 +4,10 @@
 HTML & CSS
 
 //Skills used:
-**HTML skills:
+//HTML skills:
 1. adding a class to an element 
 2. modifying text content
-**CSS skills:
+//CSS skills:
 1. adding a border
 2. adding padding
 3. italicizing text
